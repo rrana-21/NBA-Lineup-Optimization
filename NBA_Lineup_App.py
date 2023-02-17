@@ -9,7 +9,7 @@ import streamlit as st
 app_title = "Assessing the Value: Is the Salary of an NBA Line-up Justified?"
 app_sub_title = 'This web application optimizes an ' \
                 'NBA line-up by selecting the top players based ' \
-                'on the BPM (box plus-minus) scores and their salary to provide you with an optimized line-up.'
+                'on the BPM (box plus-minus) scores relative to their salary to provide you with an optimized line-up.'
 st.header(app_title)
 st.write(app_sub_title)
 
