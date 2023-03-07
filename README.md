@@ -1,2 +1,4 @@
 # NBA-Lineup-Optimization Version 1
 The project aims to create an NBA starting lineup based on player performance using Box Plus-Minus (BPM) stats, a widely accepted advanced metric for evaluating player efficiency. This project also considers the salary of each player, with the goal of identifying the most cost-effective starting lineup. The selection process involves analyzing the BPM scores of all players on the selected team and their salaries, identifying the top performers relative to their pay, and choosing the five best players to form a starting lineup. The final lineup will be chosen based on the team's positional needs and the individual performance of each player. The output is a starting lineup that optimizes performance while staying within a reasonable salary cap.
+
+Web Application: https://rrana-21-nba-lineup-optimization-nba-lineup-app-6mmtc2.streamlit.app/
